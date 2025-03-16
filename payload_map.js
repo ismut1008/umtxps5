@@ -41,7 +41,7 @@ const payload_map = [
         projectSource: "https://github.com/LightningMods/etaHEN",
         binarySource: "https://github.com/LightningMods/etaHEN/releases/download/1.9b/etaHEN.bin",
         version: "2.0b",
-        supportedFirmwares: ["3.", "4.", "5."]
+        supportedFirmwares: ["3.", "4.", "5."],
     },
     {
         displayTitle: "etaHEN",
@@ -62,7 +62,7 @@ const payload_map = [
         projectSource: "https://github.com/LightningMods/etaHEN",
         binarySource: "https://github.com/LightningMods/etaHEN/releases/download/1.9b/etaHEN.bin",
         version: "2.0b",
-        supportedFirmwares: ["3.", "4."]
+        supportedFirmwares: ["3.", "4."],
     },
     {
         displayTitle: "etaHEN",
@@ -83,7 +83,7 @@ const payload_map = [
         projectSource: "https://github.com/LightningMods/etaHEN",
         binarySource: "https://github.com/LightningMods/etaHEN/releases/download/1.9b/etaHEN.bin",
         version: "1.9b",
-        supportedFirmwares: ["3.", "4."]
+        supportedFirmwares: ["3.", "4."],
     },
     {
         displayTitle: "etaHEN",
@@ -104,7 +104,7 @@ const payload_map = [
         projectSource: "https://github.com/LightningMods/etaHEN",
         binarySource: "https://github.com/LightningMods/etaHEN/releases/download/1.9b/etaHEN.bin",
         version: "1.9b",
-        supportedFirmwares: ["3.", "4."]
+        supportedFirmwares: ["3.", "4."],
     },
     {
         displayTitle: "etaHEN",
@@ -147,7 +147,7 @@ const payload_map = [
         projectSource: "https://github.com/illusion0001/libhijacker",
         binarySource: "https://github.com/illusion0001/libhijacker-game-patch/releases/tag/1.160-75ab26a3",
         version: "1.160",
-        supportedFirmwares: ["3.", "4."]
+        supportedFirmwares: ["3.", "4."],
     },
     {
         displayTitle: "websrv",
@@ -228,7 +228,7 @@ const payload_map = [
         projectSource: "https://github.com/SiSTR0/ps5-versions",
         binarySource: "https://github.com/SiSTR0/ps5-versions/releases/download/v1.0/ps5-versions.elf",
         version: "1.0",
-        supportedFirmwares: ["1.", "2.", "3.", "4."]
+        supportedFirmwares: ["1.", "2.", "3.", "4."],
     },
     {
         displayTitle: "ps5-remoteplay-get-pin",
